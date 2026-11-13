@@ -75,4 +75,4 @@ Este projeto tem fins estritamente **educacionais** e de estudo sobre automaçã
 
 ## Créditos
 
-- Desenvolvido a partir dos conteúdos práticos disponibilizados pela **[Hashtag Treinamentos](https://hashtagtreinamentos.com)**.
+- Desenvolvido a partir dos conteúdos práticos disponibilizados pela **[Hashtag Treinamentos](https://www.youtube.com/watch?v=EzD2AqRFe5I&t=326s)**.
