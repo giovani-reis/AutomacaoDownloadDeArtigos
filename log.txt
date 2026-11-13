@@ -1,0 +1,5 @@
+10.1007/978-3-319-93846-2_82:	sucesso - Arquivo: D:\Documentos\Estudo\AutomacaoPython\PyAutoGUI2\donwload_papers\978-3-319-93846-2_82.pdf
+10.1111/coin.12458:	sucesso - Arquivo: D:\Documentos\Estudo\AutomacaoPython\PyAutoGUI2\donwload_papers\coin.12458.pdf
+10.1145/3481056.3481096:	erro
+10.1007/s10796-014-9488-3:	sucesso - Arquivo: D:\Documentos\Estudo\AutomacaoPython\PyAutoGUI2\donwload_papers\s10796-014-9488-3.pdf
+10.1007/s40888-018-00137-1:	sucesso - Arquivo: D:\Documentos\Estudo\AutomacaoPython\PyAutoGUI2\donwload_papers\s40888-018-00137-1.pdf
